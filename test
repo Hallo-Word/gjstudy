@@ -1,0 +1,32 @@
+total 8
+0 lrwxrwxrwx 1 u0_a204 u0_a204   26 Jun  3 12:08 dcim -> /storage/emulated/0/DCIM
+0 lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 downloads -> /storage/emulated/0/Download
+0 lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 movies -> /storage/emulated/0/Movies
+0 lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 music -> /storage/emulated/0/Music
+0 lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 pictures -> /storage/emulated/0/Pictures
+0 lrwxrwxrwx 1 u0_a204 u0_a204   22 Jun  3 12:08 shared -> /storage/emulated/0
+4 drwx------ 4 u0_a204 u0_a204 3488 Jun  3 15:55 study
+0 -rw------- 1 u0_a204 u0_a204    0 Jun  3 16:01 test
+4 -rw------- 1 u0_a204 u0_a204   18 Jun  3 13:10 test.txt
+haha
+test again 8pm
+total 12
+lrwxrwxrwx 1 u0_a204 u0_a204   26 Jun  3 12:08 dcim -> /storage/emulated/0/DCIM
+lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 downloads -> /storage/emulated/0/Download
+lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 movies -> /storage/emulated/0/Movies
+lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 music -> /storage/emulated/0/Music
+lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 pictures -> /storage/emulated/0/Pictures
+lrwxrwxrwx 1 u0_a204 u0_a204   22 Jun  3 12:08 shared -> /storage/emulated/0
+drwx------ 4 u0_a204 u0_a204 3488 Jun  3 15:55 study
+-rwxr-xr-x 1 u0_a204 u0_a204  707 Jun  3 19:46 test
+-rw------- 1 u0_a204 u0_a204   18 Jun  3 13:10 test.txt
+11pm
+input in.11pm
+jdfgghhjkkl 12pmh
+pwd
+bkill %1
+bg
+bdada
+fdada2
+dada3
+dada4
