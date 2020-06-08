@@ -1,0 +1,3 @@
+echo -n 'enter: '
+read
+echo result is: $REPLY

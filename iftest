@@ -1,0 +1,7 @@
+if grep "$1" /home/storage/study/test2 
+
+then
+	echo $1 is in test file
+else
+	echo $1 is NOT in test file
+fi
