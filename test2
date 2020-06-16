@@ -1,3 +1,6 @@
+head
+
+
 total 8
 0 lrwxrwxrwx 1 u0_a204 u0_a204   26 Jun  3 12:08 dcim -> /storage/emulated/0/DCIM
 0 lrwxrwxrwx 1 u0_a204 u0_a204   30 Jun  3 12:08 downloads -> /storage/emulated/0/Download
@@ -31,3 +34,6 @@ fdada2
 dada3
 dada4
 now much better!
+
+
+end
