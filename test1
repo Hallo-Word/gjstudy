@@ -117,22 +117,241 @@ drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
 -rwx------ 1 u0_a204 u0_a204 5254 Jun 1$$6 22:23 test1
 -rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
 :q!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccc
+input from mobile
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 09:46 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204   18 Jun 16 09:44 test1.txt
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204  676 Jun 16 22:22 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 1330 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 1984 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 2638 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 3292 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 3946 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 46
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 4600 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 46
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 5254 Jun 1$$6 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+:q!
+input from mobile
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 09:46 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204   18 Jun 16 09:44 test1.txt
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204  676 Jun 16 22:22 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 1330 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 1984 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 2638 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 3292 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 42
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 3946 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 46
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 4600 Jun 16 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+total 46
+drwx------ 5 u0_a204 u0_a204 3488 Jun 16 22:22 .
+drwxr-xr-x 3 u0_a204 u0_a204 3488 Jun  4 11:11 ..
+drwx------ 7 u0_a204 u0_a204 3488 Jun 15 22:49 .git
+-rwx------ 1 u0_a204 u0_a204   14 Jun  5 01:46 dirsize
+drws--s--x 2 u0_a204 u0_a204 3488 Jun 16 09:33 folder1
+drwx------ 3 u0_a204 u0_a204 3488 Jun 16 09:45 folder2
+-rw------- 1 u0_a204 u0_a204    0 Jun  4 09:52 hello.c
+-rwx------ 1 u0_a204 u0_a204  108 Jun  7 23:58 iftest
+-rwx------ 1 u0_a204 u0_a204   46 Jun  7 00:21 readtest1
+-rwx------ 1 u0_a204 u0_a204   86 Jun  7 00:29 readtest2
+-rwx------ 1 u0_a204 u0_a204 5254 Jun 1$$6 22:23 test1
+-rwxr-xr-x 1 u0_a204 u0_a204 1472 Jun  5 02:11 test2
+:q!
